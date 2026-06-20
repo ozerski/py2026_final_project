@@ -10,3 +10,15 @@ test_op.py
 
 # Source files
 source_reports/
+
+# temporary and raw files
+raw_materials/
+
+#data for processing
+data_processing/
+
+# Jupiter noteboks
+*.ipynb
+
+# Hidden files
+mappings/~$*
