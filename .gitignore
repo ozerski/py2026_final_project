@@ -19,7 +19,7 @@ data_processing/
 
 # Jupiter noteboks
 *.ipynb
-.ipynb_checkpoints/
+ipynb_checkpoints/
 
 # Hidden files
 mappings/~$*
