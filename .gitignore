@@ -1,7 +1,12 @@
 total_projects.md
+total_projects_full.md
+test_op.py
 
 # Python
 .venv/
 
 # IDE
 .idea/
+
+# Source files
+source_reports/
